@@ -18,5 +18,5 @@ CREATE FOREIGN TABLE mytest (name text, email text) server mysql_server options 
 > in pg server
 
 ```code
-
+select * from mytest
 ```
